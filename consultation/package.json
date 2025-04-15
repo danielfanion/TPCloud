@@ -1,0 +1,10 @@
+{
+  "name": "consultation-fn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "mysql2": "^3.3.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "cloud-function-move-image",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "@google-cloud/functions-framework": "^3.3.0",
+      "@google-cloud/storage": "^6.10.0",
+      "moment": "^2.29.4"
+    }
+  }
+  
