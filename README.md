@@ -4,7 +4,7 @@ Repository du TP de fin de module Cloud.
 
 Nous avons réussi à terminer le TP, vous pouvez trouver une petite démo [ici](https://youtu.be/qGIEBVjF9X4) !
 
-Vous trouverez dans les dossiers les sources des 3 cloud functions. Toutes les fonctions ont été crée depuis la console GCP, seule différence : analyse et enregistrement ont pour déclencheur les buckets alors que consultation fonctionne avec un déclencheur HTTP.
+Vous trouverez dans les dossiers les sources des 3 cloud functions. Toutes les fonctions ont été créées depuis la console GCP, seule différence : analyse et enregistrement ont pour déclencheurs les buckets alors que consultation fonctionne avec un déclencheur HTTP.
 
 Pour la création des buckets fanion_depot et fanion_public, nous avons utilisé directement l'IHM GCP :
 ![Image Buckets](/ressources/capture1.png "Liste des buckets").
