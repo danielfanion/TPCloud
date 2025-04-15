@@ -1,11 +1,11 @@
 {
-    "name": "cloud-function-move-image",
-    "version": "1.0.0",
-    "main": "index.js",
-    "dependencies": {
-      "@google-cloud/functions-framework": "^3.3.0",
-      "@google-cloud/storage": "^6.10.0",
-      "moment": "^2.29.4"
-    }
+  "name": "enregistrement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "@google-cloud/storage": "^6.10.0",
+    "mysql2": "^3.2.4",
+    "moment": "^2.29.4"
   }
-  
+}
