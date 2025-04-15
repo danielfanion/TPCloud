@@ -1,4 +1,4 @@
-# TP Cloud
+# TP Cloud - Daniel Fanion et Audrey Heurtaux
 
 Repository du TP de fin de module Cloud.
 
